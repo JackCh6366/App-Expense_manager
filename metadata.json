@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 極簡記帳 App",
+  "description": "一個簡潔現代、支援分類統計與預算管理的單網頁記帳應用程式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
